@@ -1,7 +1,5 @@
-# 
-
 # Storybook + Vue Hack Session
-> (forked from [@white-rabbit-japan](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate)
+> (forked from [@white-rabbit-japan](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate))
 
 ## About Storybook
 Storybook for Vue is a UI development environment for UI components. It allows interactive development, testing and sharing of UI components in various property states.
