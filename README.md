@@ -1,7 +1,7 @@
-# Vuetify-Storybook-boilerplate
+# 
 
-DEMO
-https://white-rabbit-japan.github.io/vuetify-storyboard-boilerplate/
+# Storybook + Vue Hack Session
+> (forked from [@white-rabbit-japan](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate)
 
 ## About Storybook
 Storybook for Vue is a UI development environment for UI components. It allows interactive development, testing and sharing of UI components in various property states.
@@ -20,13 +20,13 @@ Clone this repo to explore how it's put together. Use it as a boilerplate for cr
 
 ```bash
 # install dependencies
-npm install
+yarn install
 
 # serve with hot reload at localhost:8080
-npm run dev
+yarn run dev
 
 # build for production with minification
-npm run build
+yarn run build
 ```
 For detailed explanation on how things work, consult the
 [docs for vue-loader](http://vuejs.github.io/vue-loader).
@@ -35,7 +35,7 @@ For detailed explanation on how things work, consult the
 
 ```bash
 # run storybook
-npm run storybook
+yarn run storybook
 http://localhost:9001/
 ```
 # Resources
